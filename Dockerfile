@@ -1,5 +1,5 @@
 
-FROM openjdk:17-jdk-alpine
+FROM --platform=linux/amd64 openjdk:17-jdk-alpine AS builder
 
   # Set the working directory inside the container
 WORKDIR /app
