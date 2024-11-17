@@ -1,0 +1,10 @@
+C:\workspace\Assesment\Fetch\src\main\java\com\example\fetch\dto\PointsResponse.java
+C:\workspace\Assesment\Fetch\src\main\java\com\example\fetch\dto\ErrorResponse.java
+C:\workspace\Assesment\Fetch\src\main\java\com\example\fetch\exception\ReceiptNotFoundException.java
+C:\workspace\Assesment\Fetch\src\main\java\com\example\fetch\dto\Receipt.java
+C:\workspace\Assesment\Fetch\src\main\java\com\example\fetch\dto\ReceiptResponse.java
+C:\workspace\Assesment\Fetch\src\main\java\com\example\fetch\FetchApplication.java
+C:\workspace\Assesment\Fetch\src\main\java\com\example\fetch\aop\GlobalExceptionHandler.java
+C:\workspace\Assesment\Fetch\src\main\java\com\example\fetch\controller\ReceiptController.java
+C:\workspace\Assesment\Fetch\src\main\java\com\example\fetch\dto\Item.java
+C:\workspace\Assesment\Fetch\src\main\java\com\example\fetch\service\ReceiptService.java

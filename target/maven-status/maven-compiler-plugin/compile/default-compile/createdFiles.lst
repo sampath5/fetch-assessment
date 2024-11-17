@@ -1,0 +1,10 @@
+com\example\fetch\dto\ErrorResponse.class
+com\example\fetch\service\ReceiptService.class
+com\example\fetch\controller\ReceiptController.class
+com\example\fetch\dto\ReceiptResponse.class
+com\example\fetch\exception\ReceiptNotFoundException.class
+com\example\fetch\dto\PointsResponse.class
+com\example\fetch\aop\GlobalExceptionHandler.class
+com\example\fetch\dto\Item.class
+com\example\fetch\dto\Receipt.class
+com\example\fetch\FetchApplication.class
